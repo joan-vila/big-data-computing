@@ -28,6 +28,10 @@ Thank you for your cooperation. Best regards and Happy New Year! 🥳
 - All the students that are willing to attend this class **must subscribe ASAP** to the Moodle web page of the course, as indicated [below](#Moodle-Web-Page).
 - Classes will start on **Wednesday, September 25 2024**. Students are kindly asked to refer to the class schedule at the following [link](https://drive.google.com/file/d/12k-mOBkSO0JbI7y025RkTGqjiN6MMLHq/view).
 -->
+- Dear all,
+Big Data Computing exam will take place in my office (Viale Regina Elena, Building E, Room 306) on February 10th starting from 14.30.
+You must register using this form https://docs.google.com/forms/d/e/1FAIpQLSesfHW3ufKBrdHwHocTc_igleIl5ftGoGMSbr9QuR_TvNkjeg/viewform?usp=dialog
+Once Infostud will get back online, we will also ask you to register on Infostud so that we can register your grade
 - **IMPORTANT ANNOUNCEMENT:** Due to an institutional commitment, **tomorrow, December 11, the class will end at 11:00 AM**.
 - **First Exam Session: January 21, 2026**<br>
 All students wishing to take part in this session **must** register on Infostud (**1027099**). **Registration is open until January 18, 2026**. Further details will be communicated closer to the exam date.
